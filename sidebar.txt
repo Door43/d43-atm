@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[atm:home|Door43 (atm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-atm|d43-atm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-atm/archive/master.zip|d43-atm.zip]]
+
+**Recent Changes**
+{{changes>ns = atm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/atm|Ethnologue data]]
+
